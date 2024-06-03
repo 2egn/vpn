@@ -1,0 +1,20 @@
+
+
+calendar += '<table border="0" cellspacing="0"  cellpadding="0">';
+calendar += '<caption>' + currentYear + '년 ' + currentMonth + '월 달력</caption>';
+calendar += '<thead>';
+calendar += '<tr>';
+calendar += '<th class="sun" scope="row">일</th>';
+calendar += '<th class="mon" scope="row">월</th>';
+calendar += '<th class="tue" scope="row">화</th>';
+calendar += '<th class="wed" scope="row">수</th>';
+calendar += '<th class="thu" scope="row">목</th>';
+calendar += '<th class="fri" scope="row">금</th>';
+calendar += '<th class="sat" scope="row">토</th>';
+calendar += '</tr>';
+calendar += '</thead>';
+calendar += '<tbody>';
+
+
+calendar += '</tbody>';
+calendar += '</table>';

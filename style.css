@@ -1,0 +1,18 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+* {font-family: 'Nanum Gothic', serif;}
+
+#pcsCalendar {width: 250px; height: 250px; border: 1px solid black;}
+
+#pcsCalendar #header {height: 50px; line-height: 50px; text-align: center; font-size: 18px; font-weight: bold}
+#pcsCalendar .button {color: #000; text-decoration: none;}
+
+#pcsCalendar table {width: 250px; height: 200px;}
+#pcsCalendar caption {display: none;}
+
+#pcsCalendar .sun {text-align: center; color: red;}
+#pcsCalendar .mon {text-align: center;}
+#pcsCalendar .tue {text-align: center;}
+#pcsCalendar .wed {text-align: center;}
+#pcsCalendar .thu {text-align: center;}
+#pcsCalendar .fri {text-align: center;}
+#pcsCalendar .sat {text-align: center; color: blue;}
